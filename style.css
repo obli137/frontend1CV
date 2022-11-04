@@ -1,0 +1,48 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    color: #005677;
+    background-color: #c4c4c4;
+    font-weight: 700;
+    line-height: 84,69%;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    color: #005677;
+    background-color: #c4c4c4;
+}
+
+.footer{
+    background-color: #005677;
+    color: #FFFFFF;
+}
+
+header img {
+    width: 80px;
+    border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       size: 40px;
+
+    
+}
+.batimovil {
+    height: 100px;
+    background-image: src(img/batimovil);
+}
+.negrita{
+    font-weight: 700;
+}
+
+.imagendefondo {
+    text-align: center;
+    height: 100px;
+    background-image: url('img/batimovil.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
